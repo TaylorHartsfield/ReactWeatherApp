@@ -29,7 +29,7 @@ function App() {
     .then((weather) => {
       setMetric(weather['main']['temp'])
     })
-  }, [unit])
+  }, [city])
 
 
   function handleKeyPress(e) {
