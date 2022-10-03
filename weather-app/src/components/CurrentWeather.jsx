@@ -3,11 +3,14 @@ export default function CurrentWeather({temp, metric, handleOnClick}) {
     return (
         <div className="current-box">
             <div className="temp">
-                <div className="temp-content">{temp}{metric}</div></div>
+                {temp}{metric}
+            </div>
+         
             <div className="toggle-scale">
-                <button type="button" value="°C" onClick={handleOnClick}>C</button>
-                <button type="button" value="°F" onClick={handleOnClick}>F</button>
+                <button type="button" className="metric" value="°C" onClick={handleOnClick}>C</button>
+                <button type="button" className="metric" value="°F" onClick={handleOnClick}>F</button>
             </div>
         </div>
+       
     )
 }
