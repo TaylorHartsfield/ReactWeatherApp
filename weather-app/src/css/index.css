@@ -8,13 +8,13 @@
     font-family: 'montserrat', sans-serif;
   }
 .App{
-    background-image: url('./img/WarmBG.jpeg');
+    background-image: url('./img/SunnyDay.jpeg');
     background-size: cover;
     background-position: bottom;
     transition: 0.4 ease-out;
 }
 .App.cold{
-    background-image: url('./img/ColdBG.jpeg');
+    background-image: url('./img/WinterDay.jpeg');
 }
 main {
   min-height: 100vh;
