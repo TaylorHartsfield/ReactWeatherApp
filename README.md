@@ -1,5 +1,7 @@
 # React Weather App...because every dev needs one!
 
+See it live: https://taylorhartsfield.github.io/ReactWeatherApp/
+
 A fully client-side rendered weather app that toggles between C and F unit types. Users can search any city and see the current weather.
 ### Built with:
 - React (Components, hooks (useState, useEffect) and props
