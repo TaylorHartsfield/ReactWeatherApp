@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactWeatherApp/static/css/main.5af53a45.css",
+    "main.js": "/ReactWeatherApp/static/js/main.2351fa35.js",
+    "static/media/SunnyDay.jpeg": "/ReactWeatherApp/static/media/SunnyDay.e6dae341436b13271b43.jpeg",
+    "static/media/WinterDay.jpeg": "/ReactWeatherApp/static/media/WinterDay.dc8bfb365dcbb4f0691e.jpeg",
+    "index.html": "/ReactWeatherApp/index.html",
+    "main.5af53a45.css.map": "/ReactWeatherApp/static/css/main.5af53a45.css.map",
+    "main.2351fa35.js.map": "/ReactWeatherApp/static/js/main.2351fa35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af53a45.css",
+    "static/js/main.2351fa35.js"
+  ]
+}
